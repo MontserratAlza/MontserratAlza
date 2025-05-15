@@ -1,4 +1,4 @@
-<h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  Soy Montserrat Alvarado🌸</h1>
+<h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br>Soy Montserrat Alvarado🌸</h1>
 <h3 align="center">Creativa y apasionada | Explorando dia a dia el mundo de la tecnología</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 Contacto **montserrat_alza@outlook.com**
   
-- 🌸 Fun fact: **Adoro hacer nuevos amigos**
+- 🌸 Fun fact: **Adoro hacer nuevos amigos y en especial el Frontend**
 
 </td>
 <td width="50%" align="center">
