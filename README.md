@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 💻 Actualmente trabajo soy Desarrolladora de Software y Scrum Master en **BBVA** y además soy pasante de Operación en **Tecnolochicas**
+- 💻 Actualmente trabajo como Desarrolladora de Software y Scrum Master en **BBVA** y además soy pasante de Operación en **Tecnolochicas**
 
 - 🧑‍🎓 Soy Licenciada en **Informática Administrativa**
 
